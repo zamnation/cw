@@ -1,0 +1,11 @@
+Required data from RESOURCE.DAT:
+1) Resource number
+2) Resource title
+3) Resource type
+Required data from LOAN.DAT:
+1) Student ID
+2) Student Name
+3) Date due back
+  - Need to find earliest and latest date
+4) Evaluation
+  - Needed to check if resource has been returned
